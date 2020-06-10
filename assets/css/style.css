@@ -83,6 +83,10 @@
     max-width: 20rem;
     font-size: 1rem;
   }
+
+  .text-center h2{
+      padding: 0px 0px 100px 0px;
+  }
   
   @media (min-width: 768px) {
     .masthead h1 {
@@ -144,7 +148,7 @@
   }
   
   .projects-section {
-    padding: 160px 0;
+    padding: 100px 0;
   }
   
   .projects-section .featured-text {
